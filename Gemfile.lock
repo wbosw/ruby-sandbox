@@ -20,6 +20,7 @@ GEM
     connection_pool (2.4.1)
     drb (2.1.1)
       ruby2_keywords
+    http.rb (0.12.0)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     method_source (1.0.0)
@@ -52,6 +53,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   awesome_print
+  http.rb
   pry-byebug
   sinatra
 
